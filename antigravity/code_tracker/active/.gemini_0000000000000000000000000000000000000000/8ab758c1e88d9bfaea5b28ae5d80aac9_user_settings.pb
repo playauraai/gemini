@@ -1,1 +1,0 @@
-"H��1012�1008�1007""(000000000000000000000000000000000000000025file:///c:/Users/.gemini/antigravity/user_settings.pb:file:///c:/Users/.gemini
