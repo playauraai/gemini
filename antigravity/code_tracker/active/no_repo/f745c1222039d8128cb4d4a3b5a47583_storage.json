@@ -1,0 +1,147 @@
+æ1{
+    "telemetry.machineId": "0c3a8d5946c64a75d292e0874bac66b2f20d480ddf3a8c6950d1625cad4f7dac",
+    "telemetry.sqmId": "{57B3B52B-9140-4DD4-B594-A00B5D461B05}",
+    "telemetry.devDeviceId": "1ac7c26d-a074-40d3-a6e0-e80e706f0f2b",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///f%3A/"
+            },
+            {
+                "folderUri": "file:///f%3A/For%20Sell/Valorant/Valorant-Ultimate/SellerPanel"
+            },
+            {
+                "folderUri": "file:///c%3A/Users/.gemini"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///c%3A/Users/Krish/.gemini/antigravity/playground/lunar-cassini": "__default__profile__",
+            "file:///d%3A/Users/Krish/Documents/GitHub/SFUWISPR/drivers/ReNoise_Ghidra_Edit/extra/winefi/MECHTECH/driver/hwid-master/Voklak/V-ac-main": "__default__profile__",
+            "file:///f%3A/For%20Sell": "__default__profile__",
+            "file:///f%3A/": "__default__profile__",
+            "file:///g%3A/Apps": "__default__profile__",
+            "file:///f%3A/For%20Sell/GUI": "__default__profile__",
+            "file:///f%3A/For%20Sell/Valorant": "__default__profile__",
+            "file:///f%3A/For%20Sell/Valorant/Valorant-Ultimate/Dashboard": "__default__profile__",
+            "file:///f%3A/For%20Sell/Valorant/Valorant-Ultimate/SellerPanel": "__default__profile__",
+            "file:///c%3A/Users/Krish/.gemini/antigravity/playground/synthetic-whirlpool": "__default__profile__",
+            "file:///c%3A/Users/.gemini": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "unifiedStateSync.hasTrajectorySummariesMigrated": true,
+    "antigravityUnifiedStateSync.agentPreferences.hasPlanningModeMigrated": true,
+    "antigravityUnifiedStateSync.agentPreferences.hasArtifactReviewPolicyMigrated": true,
+    "antigravityUnifiedStateSync.agentPreferences.hasTerminalAutoExecutionPolicyMigrated": true,
+    "antigravityUnifiedStateSync.agentPreferences.hasTerminalAllowedCommandsMigrated": true,
+    "antigravityUnifiedStateSync.agentPreferences.hasTerminalDeniedCommandsMigrated": true,
+    "antigravityUnifiedStateSync.agentPreferences.hasAgentFileAccessMigration": true,
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///c%3A/Users/.gemini",
+            "backupPath": "C:\\Users\\Krish\\AppData\\Roaming\\Antigravity\\Backups\\f50e06f63248ecae1e21be0fce97ec7c",
+            "uiState": {
+                "mode": 0,
+                "x": 78,
+                "y": 35,
+                "width": 1440,
+                "height": 870
+            }
+        },
+        "openedWindows": []
+    },
+    "antigravityUnifiedStateSync.editorPreferences.hasShowSelectionPopupMigrated": true,
+    "antigravityUnifiedStateSync.editorPreferences.hasDemoModeEnabledMigrated": true,
+    "theme": "vs-dark",
+    "themeBackground": "#1f1f1f",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1f1f1f",
+            "editorBackground": "#1f1f1f",
+            "titleBarBackground": "#181818",
+            "titleBarBorder": "#2b2b2b",
+            "activityBarBackground": "#181818",
+            "activityBarBorder": "#2b2b2b",
+            "sideBarBackground": "#181818",
+            "sideBarBorder": "#2b2b2b",
+            "statusBarBackground": "#181818",
+            "statusBarBorder": "#2b2b2b",
+            "statusBarNoFolderBackground": "#1f1f1f"
+        },
+        "layoutInfo": {
+            "sideBarSide": "right",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 42,
+            "sideBarWidth": 300,
+            "auxiliaryBarWidth": 300,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "antigravityUnifiedStateSync.tabPreferences.hasMigrated": true,
+    "antigravityUnifiedStateSync.browserPreferences.hasBrowserAllowlistMigrated": true,
+    "antigravityUnifiedStateSync.browserPreferences.hasBrowserLaunchPreferencesMigrated": true,
+    "antigravityUnifiedStateSync.browserPreferences.hasAddedLocalhostToAllowlist": true,
+    "jetski.agentManagerWindowClosed": true,
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 300,
+            "auxiliaryBarWidth": 300,
+            "workspaces": {
+                "5105d8fe54316a5162864ba5d9664091": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "6f6bad270257f86b08f7be54b97c3b7d": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "94b252e09115a318f857b4521378746b": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "88e76c8f31ce849a5f8f08e2818fc56c": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "611c424ba44b466f40796fca0394773b": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "9b8a16245309cb8453aae6ca34bcb2ad": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "e2411d41d22263cd3fae5817ba725e1b": {
+                    "sideBarVisible": false,
+                    "auxiliaryBarVisible": true
+                },
+                "b7cab0ff8a7cfdd83e8ae0df382caeef": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "bbb2c388abd6709a5bf954e699be49c5": {
+                    "sideBarVisible": false,
+                    "auxiliaryBarVisible": true
+                },
+                "bd39b1744247b5b837c624e76c3f4883": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "ced8c4b05845d814a93c483b1f604e64": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                }
+            }
+        }
+    }
+}æ12Rfile:///c:/Users/Krish/AppData/Roaming/Antigravity/User/globalStorage/storage.json

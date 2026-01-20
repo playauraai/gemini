@@ -1,0 +1,16 @@
+ç{
+  "git.ignoreMissingGitWarning": true,
+  "workbench.colorTheme": "Default Dark Modern",
+  "workbench.editor.enablePreview": false,
+  "editor.largeFileOptimizations": false,
+  "diffEditor.renderSideBySide": false,
+  "terminal.integrated.enableMultiLinePasteWarning": "never",
+  "git.openRepositoryInParentFolders": "never",
+  "editor.formatOnSaveMode": "modificationsIfAvailable",
+  "workbench.sideBar.location": "right",
+  "files.autoSave": "afterDelay",
+  "editor.unicodeHighlight.invisibleCharacters": false,
+  "editor.unicodeHighlight.ambiguousCharacters": false,
+  "clangd.path": "c:\\Users\\Krish\\AppData\\Roaming\\Antigravity\\User\\globalStorage\\llvm-vs-code-extensions.vscode-clangd\\install\\21.1.0\\clangd_21.1.0\\bin\\clangd.exe",
+  "python.languageServer": "None"
+}ç2Qfile:///c:/Users/Krish/AppData/Roaming/Antigravity/User/History/5b35266/6KHR.json
